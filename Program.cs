@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using ConApp;
+Console.WriteLine("Welcome to Number SYstem");
+Console.WriteLine("**Even Numbers **");
+NumberSystem.OddNum();
+Console.WriteLine("**Odd Numbers**");
+NumberSystem.EvenNum();

@@ -12,3 +12,4 @@ C:\Users\sss\source\repos\ConApp\ConApp\obj\Debug\net6.0\refint\ConApp.dll
 C:\Users\sss\source\repos\ConApp\ConApp\obj\Debug\net6.0\ConApp.pdb
 C:\Users\sss\source\repos\ConApp\ConApp\obj\Debug\net6.0\ConApp.genruntimeconfig.cache
 C:\Users\sss\source\repos\ConApp\ConApp\obj\Debug\net6.0\ref\ConApp.dll
+C:\Users\sss\source\repos\ConApp\ConApp\obj\Debug\net6.0\ConApp.sourcelink.json
